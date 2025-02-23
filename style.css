@@ -35,8 +35,7 @@ body {
 }
 
 .head {
-    display: flex;
-    justify-content: space-between;
+    text-align: center;
     color: rgba(255, 255, 255, 0.945);
     padding: 10px 0;
     font-size: 14px;
